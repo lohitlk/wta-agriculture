@@ -1,0 +1,31 @@
+*{
+margin:0;
+padding:0;  
+box-sizing:border-box;
+font-family:poppins;  
+}
+
+
+.nav-link:hover
+{
+
+  background:#f2f2f2;
+}
+
+h3{
+  color:green;
+}
+span
+{
+  color:#999999;
+}
+
+#mk5
+{
+  color: white;
+
+}
+#v6
+{
+  margin-bottom: 50px;
+}
